@@ -1,0 +1,4 @@
+/* Additional navbar-specific styles if needed */
+.nav-link-active {
+  @apply text-primary-600 bg-primary-50;
+}
