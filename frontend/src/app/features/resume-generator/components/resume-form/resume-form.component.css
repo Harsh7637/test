@@ -1,5 +1,0 @@
-/* Resume form specific styles */
-.input-field:focus,
-.textarea-field:focus {
-  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
-}
